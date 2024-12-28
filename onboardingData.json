@@ -1,16 +1,12 @@
 {
-  "name": "Rupa Sree",
-  "gender": "Female",
-  "screenTime": "4-6",
+  "name": "Nehra",
+  "gender": "Male",
+  "screenTime": "0-2",
   "primarlyUsed": [
-    "Education",
-    "Social Media",
-    "Work/Productivity",
-    "Gaming"
+    "Education"
   ],
   "interestedBreaks": [
-    "Music",
-    "Meditate"
+    "Move away from screen"
   ],
   "primaryGoal": "To reduce stress and increase productivity"
 }
